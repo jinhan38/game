@@ -12,7 +12,6 @@ public class GameApplication {
         Game game =new Game();
         game.start(3, 1, 9);
 
-
     }
 
 }
